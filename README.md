@@ -2,7 +2,7 @@
 
 ## Installation
 
-Requires Node.js v14+ to run.
+Requires Node.js v14.16+ to run, otherwise running `yarn config set ignore-engines true` might help.
 Requires mordern browsers
 
 > First, fork or clone this project:
