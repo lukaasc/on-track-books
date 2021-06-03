@@ -1,5 +1,7 @@
 # Books Tracker
 
+https://user-images.githubusercontent.com/8661537/120723156-171a4400-c4c9-11eb-9671-cf7934dce475.mp4
+
 ## Installation
 
 Requires Node.js v14.16+ to run, otherwise running `yarn config set ignore-engines true` might help.
